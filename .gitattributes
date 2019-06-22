@@ -2,3 +2,5 @@
 /.gitignore export-ignore
 /.gitattributes export-ignore
 /phpunit.xml.dist export-ignore
+/.codeclimate.json
+/.travis_ci.yml

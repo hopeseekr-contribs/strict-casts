@@ -1,5 +1,9 @@
 # PHP Strict Casts
 
+[![TravisCI]()]()
+[![Maintainability]()]()
+[![Test Coverage]()]()
+
 Strict type casting for super defensive PHP
 
 ## Installation
